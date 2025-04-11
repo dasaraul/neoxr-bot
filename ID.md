@@ -14,7 +14,7 @@ Terdapat 2 file konfigurasi yaitu ```.env``` dan ```config.json```, sesuaikan te
 
 ```Javascript
 {
-   "owner": "6285887776722",
+   "owner": "6282210819939",
    "owner_name": "Wildan Izzudin"
    "database": "data",
    "limit": 25,

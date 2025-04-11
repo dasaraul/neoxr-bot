@@ -102,7 +102,7 @@ const client = new Baileys({
 > 32 plugin game yang semuanya tanpa menggunakan api dan tanpa di enskripsi, dengan ini ada tambahan update schema, profile, rank, pocket, dll.
 
 > [!IMPORTANT]
-> **Creator / Group** : [Wildan Izzudin](https://wa.me/p/6124894997634330/6285887776722) / [Chatbot](https://chat.whatsapp.com/D4OaImtQwH48CtlR0yt4Ff)
+> **Creator / Group** : [Wildan Izzudin](https://wa.me/p/6124894997634330/6282210819939) / [Chatbot](https://chat.whatsapp.com/D4OaImtQwH48CtlR0yt4Ff)
 
 ### Requirements
 
@@ -130,7 +130,7 @@ There are 2 configuration files namely ```.env``` and ```config.json```, adjust 
 
 ```Javascript
 {
-   "owner": "6285887776722",
+   "owner": "6282210819939",
    "owner_name": "Wildan Izzudin",
    "database": "data",
    "limit": 15,
